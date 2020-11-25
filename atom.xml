@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://timeofwind.github.io</id>
     <title>风吹落的年华</title>
-    <updated>2020-08-17T05:23:42.942Z</updated>
+    <updated>2020-11-25T03:58:59.308Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://timeofwind.github.io"/>
     <link rel="self" href="https://timeofwind.github.io/atom.xml"/>
@@ -11,16 +11,23 @@
     <icon>https://timeofwind.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 风吹落的年华</rights>
     <entry>
+        <title type="html"><![CDATA[半年没更新啦]]></title>
+        <id>https://timeofwind.github.io/post/ban-nian-mei-geng-xin-la/</id>
+        <link href="https://timeofwind.github.io/post/ban-nian-mei-geng-xin-la/">
+        </link>
+        <updated>2020-11-25T03:58:20.000Z</updated>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[python学习档案]]></title>
-        <id>https://timeofwind.github.io/post/python-xue-xi-dang-an</id>
-        <link href="https://timeofwind.github.io/post/python-xue-xi-dang-an">
+        <id>https://timeofwind.github.io/post/python-xue-xi-dang-an/</id>
+        <link href="https://timeofwind.github.io/post/python-xue-xi-dang-an/">
         </link>
         <updated>2019-12-12T08:40:18.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[请购单单别参数设定是否带出备注]]></title>
-        <id>https://timeofwind.github.io/post/qinggoudan</id>
-        <link href="https://timeofwind.github.io/post/qinggoudan">
+        <id>https://timeofwind.github.io/post/qinggoudan/</id>
+        <link href="https://timeofwind.github.io/post/qinggoudan/">
         </link>
         <updated>2019-12-10T08:28:16.000Z</updated>
     </entry>
