@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://timeofwind.github.io</id>
     <title>风吹落的年华</title>
-    <updated>2020-11-25T05:38:23.088Z</updated>
+    <updated>2020-12-23T06:49:14.668Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://timeofwind.github.io"/>
     <link rel="self" href="https://timeofwind.github.io/atom.xml"/>
@@ -10,6 +10,13 @@
     <logo>https://timeofwind.github.io/images/avatar.png</logo>
     <icon>https://timeofwind.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 风吹落的年华</rights>
+    <entry>
+        <title type="html"><![CDATA[T100学习手册]]></title>
+        <id>https://timeofwind.github.io/post/t100-xue-xi-shou-ce/</id>
+        <link href="https://timeofwind.github.io/post/t100-xue-xi-shou-ce/">
+        </link>
+        <updated>2020-12-23T06:46:14.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[半年没更新啦]]></title>
         <id>https://timeofwind.github.io/post/ban-nian-mei-geng-xin-la/</id>
